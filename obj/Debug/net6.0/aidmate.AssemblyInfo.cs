@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aidmate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89fa60282e5b5ad0a5c5bca88677442a972a1975")]
 [assembly: System.Reflection.AssemblyProductAttribute("aidmate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aidmate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
